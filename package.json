@@ -1,0 +1,24 @@
+{
+  "name": "ls",
+  "version": "1.0.0",
+  "description": "Simple application that encodes and decodes Morse code into text or dots and dashes.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node start.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bajeebis/Morse-Code-Encoder-Decoder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bajeebis/Morse-Code-Encoder-Decoder/issues"
+  },
+  "homepage": "https://github.com/bajeebis/Morse-Code-Encoder-Decoder#readme",
+  "dependencies": {
+    "JSONStream": "^1.3.5",
+    "fs": "0.0.1-security"
+  }
+}
